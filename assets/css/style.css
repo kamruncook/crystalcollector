@@ -1,0 +1,89 @@
+body {
+	background-image: url(http://designwoop.com/uploads/2012/03/15_free_subtle_textures_seamless_grunge_patterns.jpg);
+}
+
+h1 {
+	color: black;
+}
+
+#box01 {
+	padding: 30px;
+	text-align: center;
+	border-width : 2px;
+	border-style: solid;
+	border-color: silver;
+	background-color: rgba(255,255,255,.3);
+	width: 25%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	font-family: arial;
+	font-size: 30px;
+}
+
+#box02 {
+	padding: 15px;
+	background-color: rgba(255,255,255,.3);
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	font-size: 18px;
+	border-style: solid;
+	border-color: silver;
+	border-width: 2px;
+	font-weight: bold;
+}
+
+#box03 {
+	padding: 30px;
+	background-color: rgba(255,255,255,.3);
+	border-style: solid;
+	border-color: silver;
+	border-width: 2px;
+	width: 20%;
+	margin: auto;
+}
+
+#box04 {
+	padding: 20px;
+	background-color: rgba(255,255,255,.3);
+	width: 20%;
+	border-style: solid;
+	border-color: silver;
+	border-width: 2px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: bold;
+}
+
+#box05 {
+	padding: 20px;
+	background-color: rgba(255,255,255,.3);
+	width: 20%;
+	margin-top: 15px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 15px;
+	font-weight: bold;
+	border-style: solid;
+	border-color: silver;
+	border-width: 2px;
+}
+
+.crystals {
+	display: inline-block;
+	position: relative;
+	display: inline-block;
+}
+
+.crystalImage {
+	height: 100px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: silver;
+	
+}
